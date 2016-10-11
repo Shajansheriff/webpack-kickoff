@@ -1,0 +1,26 @@
+{
+  "name": "webpack-kickoff",
+  "version": "1.0.0",
+  "description": "Playing with Webpack and its features. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shajansheriff/webpack-kickoff.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack",
+    "tutiorial",
+    "webpack",
+    "starter"
+  ],
+  "author": "Mr. SJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shajansheriff/webpack-kickoff/issues"
+  },
+  "homepage": "https://github.com/Shajansheriff/webpack-kickoff#readme"
+}
